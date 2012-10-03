@@ -1,0 +1,3 @@
+~~~~~~~~~~~~ POKEMANZ IDEAS ~~~~~~~~~~~~~~
+
+--constructor of Pokemon class should be able to create an object of any subspecies
